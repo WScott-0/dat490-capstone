@@ -1,0 +1,49 @@
+mean obesity by income:
+income
+Less than 15000     35.09
+15000 - 24999       33.72
+25000 - 34999       32.72
+35000 - 49999       32.44
+50000 - 74999       31.94
+NaN                 30.58
+75000 or greater    27.90
+Name: obesity_pct, dtype: float64
+
+mean obesity by sex:
+sex
+NaN       31.03
+Female    30.70
+Male      30.56
+Name: obesity_pct, dtype: float64
+
+mean obesity by race_ethnicity:
+race_ethnicity
+Hawaiian/Pacific Islander        38.80
+Non-Hispanic Black               37.58
+American Indian/Alaska Native    36.39
+Hispanic                         32.92
+Other                            31.87
+NaN                              31.13
+Non-Hispanic White               28.79
+Asian                            11.81
+Name: obesity_pct, dtype: float64
+
+mean obesity by education:
+education
+<High school         34.06
+High school          32.75
+Some college/tech    32.36
+NaN                  30.98
+College              25.23
+Name: obesity_pct, dtype: float64
+
+mean obesity by ageyears:
+ageyears
+45-54    36.35
+55-64    35.15
+35-44    34.37
+NaN      31.22
+25-34    29.61
+65+      28.06
+18-24    18.33
+Name: obesity_pct, dtype: float64
